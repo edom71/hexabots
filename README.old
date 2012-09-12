@@ -1,0 +1,100 @@
+Hexabots
+========
+
+This project may eventually turn into a turn-based strategy RPG similar
+to Final Fantasy Tactics. For now, it includes a simple level editor and
+a very simple game that lets you move around and fight with the enemy
+team.
+
+
+Requirements
+------------
+
+Panda3D 1.5.4
+
+
+Editor Instructions
+-------------------
+
+The editor has the following keyboard commands:
+
+c: create new level
+s: save level
+l: load level
+d: delete level (clear from memory, not the disk)
+
+You can zoom in and out by turning the mouse wheel, or rotate the view
+by clicking the mouse wheel and dragging.
+
+There are also mouse buttons on the screen that you can use to switch
+modes so you can edit different things:
+
+Height
+Material
+    Grass
+    Stone
+    Water
+Character
+    Team1
+    Team2
+
+When Height mode is active, clicking a tile will allow you to drag it up
+and down to change its height.
+
+When Material mode is active, you can paint with the selected material.
+
+When Character mode is active, clicking a character will allow you to
+drag it around to a new tile. Clicking an empty tile will create a
+character from the selected team on that tile. Clicking the tile under a
+character will delete the character from that tile.
+
+
+Game Instructions
+-----------------
+
+l: load level
+
+You can zoom in and out by turning the mouse wheel, or rotate the view
+by clicking the mouse wheel and dragging.
+
+The light blue hexes indicate which tiles you can move to. Click a tile
+to move there. Moving takes time; the farther you move, the more you
+will have to recharge (rest) before you can take your next turn.
+
+The red hexes indicate which tiles are within your attack range. Click
+an enemy character when it's within your attack range to queue an
+attack. Characters do not attack right away; it takes time to prepare
+for the attack.
+
+Taking damage reduces a character's efficiency, which (for now) just
+reduces the rate at which a character charges up between turns. The
+slower a character charges, the less often that character will get to
+take turns. When a character's efficiency reaches 0, that character is
+removed from the game.
+
+Defeat all the characters who aren't on your team to win the game.
+
+
+Changelog
+---------
+
+2009-02-15:
+ - Moved to Google Code SVN repository.
+ - Renamed project to Hexabots.
+ - Fixed some bugs.
+
+2009-02-09:
+ - Fixed some bugs.
+
+2009-02-08:
+ - Allowed multiple players per team.
+ - Added CT system for determining when each player moves
+   and when actions happen.
+ - Added damage system and win/loss conditions.
+ - Added animations for movement and attacks.
+
+2009-02-04:
+ - Released first version with working level editor and basic game.
+
+2009-01-22:
+ - Started project.

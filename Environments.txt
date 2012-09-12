@@ -1,0 +1,156 @@
+Dungeons
+
+Types of Dungeons
+
+Ruined Structure
+Occupied Structure
+Safe Storage
+Natural Cavern Complex
+
+Dungeon Terrain
+
+Walls
+
+Masonry Walls
+Superior Masonry Walls
+Reinforced Masonry Walls
+Hewn Stone Walls
+Unworked Stone Walls
+Iron Walls
+Paper Walls
+Wooden Walls
+Magically Treated Walls
+Walls with Arrow Slits
+
+Floors
+
+Flagstone
+Uneven Flagstone
+Hewn Stone Floors
+Light Rubble
+Dense Rubble
+Smooth Stone Floors
+Natural Stone Floors
+Slippery
+Grate
+Ledge
+Transparent Floor
+Sliding Floors
+Trap Floors
+
+Doors
+
+Wooden
+Stone
+Iron
+Breaking Doors
+Locked Doors
+Stuck Doors
+Barred Doors
+Magic Seals
+Hinges
+Secret Doors
+Magic Doors
+Portcullises
+
+Walls, Doors, and Detect Spells
+
+Stairs
+
+Cave-Ins and Collapses (CR 8)
+Slimes, Molds, and Fungi
+Brown Mold (CR 2)
+Green Slime (CR 4)
+Phosphorescent Fungus
+Russet Mold (CR 6)
+Shrieker
+Yellow Mold (CR 6)
+
+Weather
+
+Rain, Snow, Sleet, and Hail
+Fog
+Winds
+Special Weather Events
+Storms
+Powerful Storms
+Special Weather
+Black Blizzard
+
+Wilderness
+Getting Lost
+
+Poor Visibility
+Difficult Terrain
+Chance to Get Lost
+Effects of Being Lost
+Regaining Your Bearings
+
+Forest Terrain
+
+Stealth and Detection in a Forest
+Forest Fire (CR 6)
+
+Marsh Terrain
+Hills Terrain
+Mountain Terrain
+
+Avalanches (CR 7)
+Mountain Travel
+
+Desert Terrain
+
+Sandstorm
+
+Plains Terrain
+Aquatic Terrain
+
+Underwater Combat
+Table: Combat Adjustments Underwater
+Floods
+
+Environmental Rules
+
+Acid Effects
+Cold Dangers
+Ice Effects
+Darkness
+Falling
+Heat Dangers
+
+Catching on Fire
+Lava Effects
+Smoke Effects
+
+Starvation and Thirst
+Suffocation
+Water Dangers
+
+Drowning
+
+Urban Adventures
+
+Weapon and Spell Restrictions
+Urban Features
+
+Walls and Gates
+Watchtowers
+Gates
+Guards and Soldiers
+Siege Engines
+City Streets
+Above and Beneath the Streets
+City Buildings
+City Lights
+
+The Planes
+
+Material Plane
+Transitive Planes
+Inner Planes
+Outer Planes
+Demiplanes
+Layered Planes
+How Planes Interact
+Coterminous Planes
+Coexistent Planes

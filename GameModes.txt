@@ -1,0 +1,27 @@
+Game Mode: Major Areas
+	-3rd Person Action
+	-object interaction
+	-mob interaction
+
+Game Mode: Combat Zone
+	-isometric on hex board
+	-occupents of combat zone roll initiative/awareness
+	-action sequence:
+		-move, attack/action, end
+		-attack/action, move, end
+		-attack/action, 1/2 move, attack/action,end
+	-mode last till one opponent remains in combat zone
+
+Game Mode: Road Travel/Fast Travel
+	-Road Travel:
+		-done on 2d map point to point
+		-# types of points
+			-Major Point
+			-Minor Point
+			-Crossroad
+		-variable random encounters
+	-Fast Travel
+		-done on 2d map by list
+		-pathfind most direct route
+		-stiil will have random encounters
+		
